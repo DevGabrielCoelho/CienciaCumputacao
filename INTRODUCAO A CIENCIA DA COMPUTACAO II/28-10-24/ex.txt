@@ -1,0 +1,12 @@
+01) Prb01- Implemente uma função recursiva que, dados dois números inteiros 
+naturais X e N, calcula o valor de X elevado a N.
+
+02) Prb02- Usando recursividade, calcule a soma de todos os valores de um vetor 
+reais.
+
+03) Prb03- Dado um vetor de inteiros determine o seu número de elementos e 
+a posição dos seus elementos.
+
+04) Prb04-Escreva uma função recursiva que determine quantas vezes um 
+determinado dígito ocorre em um número natural N. 
+Exemplo:  O dígito 2 ocorre 3 vezes em 762021192.
